@@ -6,6 +6,7 @@ Next
 ~~~~
 
 - feat: add diarization speaker count metrics
+- feat: add support for adding metrics together, to evaluate files in parallel (@nryant, @Atishyy27)
 - fix: fix metrics for empty references (@Atishyy27)
 
 Version 4.1.0 (2026-05-06)
